@@ -8,7 +8,7 @@
 - ★quantum communications★
 - (You can contact me at yuyu7020@naver.com/yuyuyu7020@gamil.com)
 
-<Available Language>
+Available Language
   python
   c/c++
   java
@@ -17,24 +17,24 @@
   html5/css
   etc.
 
-<FrameWork>
+FrameWork
   django
   Qiskit : Programming language for Quantum Computer (IBM)
   etc.
 
-<Embedded System>
+Embedded System>
   Raspberry pi (based on ARM cortex)
   Arduino (based on Atmega 328)
 
-<license>
+license
   자동차 정비 기능사
 
-<CAD>
+CAD
   Solidworks
   AutoCAD
   inventor
 
-<Tool>
+Tool
   matlab/simulink
   OrCAD
   Pspice
