@@ -9,32 +9,32 @@
 - (You can contact me at yuyu7020@naver.com/yuyuyu7020@gamil.com)
 
 Available Language...
-  python
-  c/c++
-  java
-  visual basic/visual basic for application(VBA)
-  verilog HDL : digital Hardware description language
-  html5/css
+  python, 
+  c/c++, 
+  java, 
+  visual basic/visual basic for application(VBA), 
+  verilog HDL : digital Hardware description language, 
+  html5/css, 
   etc.
 
 FrameWork...
-  django
-  Qiskit : Programming language for Quantum Computer (IBM)
+  django, 
+  Qiskit : Programming language for Quantum Computer (IBM), 
   etc.
 
 Embedded System...
-  Raspberry pi (based on ARM cortex)
+  Raspberry pi (based on ARM cortex), 
   Arduino (based on Atmega 328)
 
 license...
   자동차 정비 기능사
 
 CAD...
-  Solidworks
-  AutoCAD
+  Solidworks, 
+  AutoCAD, 
   inventor
 
 Tool...
-  matlab/simulink
-  OrCAD
+  matlab/simulink, 
+  OrCAD, 
   Pspice
