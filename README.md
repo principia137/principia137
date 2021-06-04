@@ -1,8 +1,7 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... linux(rasbian/ubuntu), 신호 및 시스템/통신공학/네트워크/양자암호통신/양자컴퓨터
+- 🌱 I’m currently learning ... 리눅스(rasbian/ubuntu), 신호 및 시스템/통신공학/네트워크/광학/양자암호통신/양자컴퓨터
 - 👯 I’m looking to collaborate on ... ★quantum communications★ (You can contact me at yuyu7020@naver.com/yuyuyu7020@gamil.com)
+- 저는 논리실증주의자 입니다.
 
 Available Language...
   python, 
