@@ -5,9 +5,9 @@
 - 👯 I’m looking to collaborate on ... ★quantum communications★ 
   (You can contact me at yuyu7020@naver.com/yuyuyu7020@gamil.com)
 ##### aobut me
-  -저는 논리실증주의자 입니다.
-  -물리학을 공부합니다.
-  -Self reliancce(자기의존)이 매우 강한 사람입니다.
+- 저는 논리실증주의자 입니다.  
+- 물리학을 공부합니다.  
+- Self reliancce(자기의존)이 매우 강한 사람입니다. 
 
 ##### Available Language...
   python,   
