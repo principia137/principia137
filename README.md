@@ -13,13 +13,14 @@
   python,   
   c/c++,  
   java, 
-  visual basic/visual basic for application(VBA), 
-  verilog HDL : digital Hardware description language,  
+  visual basic/visual basic for application(VBA),  
+  verilog HDL : digital Hardware description language,    
   etc.  
 
 ##### FrameWork...
   django, 
-  Qiskit : Programming language for Quantum Computer (IBM), 
+  pyqt, 
+  Qiskit : Programming language for Quantum Computer (i've been using IonQ & IBM back-end), 
   etc.  
 
 ##### Embedded System...
