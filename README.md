@@ -18,8 +18,8 @@
   etc.  
 
 ##### FrameWork...
-  django, 
-  pyqt, 
+  django,   
+  pyqt,   
   Qiskit : Programming language for Quantum Computer (i've been using IonQ & IBM back-end), 
   etc.  
 
