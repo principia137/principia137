@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning ...   
   리눅스(rasbian/ubuntu),  
   신호 및 시스템/통신공학/네트워크/광학/양자암호통신/양자컴퓨터
 - 👯 I’m looking to collaborate on ... ★quantum communications★ 
@@ -12,7 +12,7 @@
 ##### Available Language...
   python,   
   c/c++,  
-  java, 
+  java,   
   visual basic/visual basic for application(VBA),  
   verilog HDL : digital Hardware description language,    
   etc.  
