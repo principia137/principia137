@@ -30,7 +30,7 @@
   etc.  
 
 ##### Embedded System...
-  ~~Raspberry pi os(based on ARM cortex), ~~
+  ~~Raspberry pi os(based on ARM cortex)~~
   Arduino (based on Atmega 328) 
 
 ##### license...
