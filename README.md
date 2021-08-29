@@ -5,8 +5,8 @@
   Particle Physics / Quantum field theory
   
   
-~~- 👯 I’m looking to collaborate on ... 
-  ★quantum communications★ ~~
+~~👯 I’m looking to collaborate on ... 
+  ★quantum communications★~~
   (You can contact me at yuyu7020@naver.com/yuyuyu7020@gmail.com)
   
 ##### about me
