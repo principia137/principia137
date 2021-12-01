@@ -38,7 +38,7 @@
   Arduino (based on Atmega 328) 
 
 ##### license...
-  자동차 정비 기능사  
+  자동차 정비 기능사(2018 취득)
 
 ##### CAD...
   Solidworks, 
