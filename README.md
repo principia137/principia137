@@ -3,7 +3,7 @@
   ~~리눅스(raspberry pi os/ubuntu)/신호 및 시스템/통신공학/네트워크/광학/양자암호통신/양자컴퓨터~~  
   
  Physics : Particle Physics / Quantum field theory  
- Mathematics : group theory 
+ Mathematics : group theory   
  Biology : Brain science  
  Philosophy : epistemology, philosophy of science 
   
