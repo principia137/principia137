@@ -1,11 +1,11 @@
 ### Hi there 👋
-- 🌱 I’m learning ...   
+ 🌱 I’m learning ...   
   ~~리눅스(raspberry pi os/ubuntu)/신호 및 시스템/통신공학/네트워크/광학/양자암호통신/양자컴퓨터~~  
   Physics : Particle Physics / Quantum field theory / Cosmology   
   ~~Mathematics : group theory~~   
   Biology : Brain science  
-  Philosophy : epistemology, philosophy of science, linguistic philosophy
-  
+  Philosophy : epistemology, philosophy of science, linguistic philosophy   
+  종합격투기(MMA), 주짓수(Jiujitsu)-화이트벨트 1그랄
   
 ~~👯 I’m looking to collaborate on ... ★quantum communications★~~
     
@@ -17,6 +17,8 @@
 - 물리학을 공부합니다.  
 - Self reliancce(자기신뢰)가 매우 강한 사람입니다.  
 - 니체의 위버멘쉬(Overman, 초인)사상을 삶의 본질적 태도로 삼습니다. 
+- 힙합문화(일부)를 사랑합니다.
+- I love 나은♡
 
 ##### Information...
   미래산업과학고 졸(2019)   
