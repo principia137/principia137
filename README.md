@@ -1,14 +1,13 @@
 ### Hi there 👋
 - 🌱 I’m learning ...   
   ~~리눅스(raspberry pi os/ubuntu)/신호 및 시스템/통신공학/네트워크/광학/양자암호통신/양자컴퓨터~~  
-  Physics : Particle Physics / Quantum field theory  
+  Physics : Particle Physics / Quantum field theory / Cosmology
   ~~Mathematics : group theory~~   
   Biology : Brain science  
-  Philosophy : epistemology, philosophy of science 
+  Philosophy : epistemology, philosophy of science, linguistic philosophy
   
   
-~~👯 I’m looking to collaborate on ... 
-  ★quantum communications★~~
+~~👯 I’m looking to collaborate on ... ★quantum communications★~~
     
     (You can contact me at yuyu7020@naver.com/yuyuyu7020@gmail.com)
     (중앙대학교 물리학과 학술소모임 DDM 방문 - https://sites.google.com/view/cau-ddm)
@@ -21,7 +20,10 @@
 
 ##### Information...
   미래산업과학고 졸(2019)   
-  중앙대학교 물리학과 학사 재학중(2019 ~ )
+  중앙대학교 물리학과 학사 재학중(2019 ~ )  
+  
+##### Career 
+  노픈누리지역아동센터(2020.12~2022.08) 
   
 ##### Available Language...
   python,   
