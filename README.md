@@ -4,8 +4,7 @@
   Physics : Particle Physics / Quantum field theory / Cosmology     
   Biology : Brain science  
   Philosophy : epistemology, philosophy of science, linguistic philosophy   
-  
-  종합격투기(MMA), 주짓수(Jiujitsu)-화이트벨트 1그랄
+  Sports : 종합격투기(MMA), 주짓수(Jiujitsu)
     
     (You can contact me at yuyu7020@naver.com/yuyuyu7020@gmail.com)
     (중앙대학교 물리학과 학술소모임 DDM 방문 - https://sites.google.com/view/cau-ddm)
@@ -19,18 +18,29 @@
 - I love 나은
 
 ##### Information...
+  🎂 2000.02.07~  
+  🏠 Wonju, korea  
+  📱:(Insta) @philosopher_on_the_corner    
+  
+##### Affilation
+  THEP 고에너지 이론물리 연구실
+  
+##### School...
   미래산업과학고 졸(2019)   
   중앙대학교 물리학과 학사 재학중(2019 ~ )  
   
 ##### Career 
-  노픈누리지역아동센터(2020.12~2022.08) 
-  
+  노픈누리지역아동센터(2020.12~2022.08)  
+  2023년 물리학과 학술 소모임(DDM) 회장  
+
+
+#### Technology
 ##### Available Language...
   python,   
   c/c++,  
   java,   
   visual basic/visual basic for application(VBA),  
-  verilog HDL : digital Hardware description language,    
+  ~~verilog HDL : digital Hardware description language,~~    
   etc.  
 
 ##### FrameWork...
