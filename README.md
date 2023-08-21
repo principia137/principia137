@@ -4,7 +4,7 @@
   Physics : Quantum field theory / Cosmology     
   Biology : Brain science  
   Philosophy : epistemology, philosophy of science, linguistic philosophy   
-  Mathematics : Group theory
+  Mathematics : Group theory  
   Sports : 종합격투기(MMA), 주짓수(Jiujitsu)
     
     (You can contact me at yuyu7020@naver.com/yuyuyu7020@gmail.com)
