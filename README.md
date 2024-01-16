@@ -16,9 +16,9 @@ Higgs inflation,SUSY
 
 
 ##### Information...
-   (Insta) @philosopher_on_the_corner    
-   (You can contact me at yuyuyu7020@gmail.com)
-   (중앙대학교 물리학과 학술소모임 DDM 방문 - https://sites.google.com/view/cau-ddm)
+   (Instagram - @philosopher_on_the_corner)    
+   (You can contact me at yuyuyu7020@gmail.com)    
+   (중앙대학교 물리학과 학술소모임 DDM 방문 - https://sites.google.com/view/cau-ddm)    
    (개인 블로그 - https://principia137.github.io)
    
 ##### Affilation
@@ -29,7 +29,7 @@ Higgs inflation,SUSY
   중앙대학교 물리학과 학사 재학중(2019 ~ )  
   
 ##### Career  
-  2021년 물리학과 학술소모임(DDM) 부회장
+  2021년 물리학과 학술소모임(DDM) 부회장    
   2023년 물리학과 학술소모임(DDM) 회장  
 
 
@@ -52,10 +52,7 @@ Higgs inflation,SUSY
 ##### license...
   자동차 정비 기능사(2018년 취득)
 
-##### CAD...
-  Solidworks, 
-  AutoCAD,  
-  inventor  
-
 ##### Tool...
   matlab/simulink,  
+  Solidworks, 
+  AutoCAD,  
