@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, This is my brief resume 👋
  > I love physics! I'm always thinking about **'big question & big history'** of our universe.
  
 ## 🌱 I’m learning ...    
