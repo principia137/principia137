@@ -2,12 +2,12 @@
  > I love physics! I'm always thinking about **'big question & big history'** of our universe.
  
 ## 🌱 I’m learning ...    
-  Physics : 양자장론(Quantum field theory), 중력 & 우주론(Gravity & Cosmology)     
-  Engineering : 통신(telecommunication & RF system), 신호처리(signal processing), 제어(control theory), Embeded system(c/c++)
-  Mathematics : 군론(Group theory)  
-  Biology : 뇌과학(Brain science)  
-  Philosophy : 인식론(epistemology), 과학철학(philosophy of science), 언어철학(linguistic philosophy)   
-  Sports : 종합격투기(MMA), 주짓수(Jiujitsu)  
+  - Physics : 양자장론(Quantum field theory), 중력 & 우주론(Gravity & Cosmology)     
+  - Engineering : 통신(telecommunication & RF system), 신호처리(signal processing), 제어(control theory), Embeded system(c/c++)
+  - Mathematics : 군론(Group theory)  
+  - Biology : 뇌과학(Brain science)  
+  - Philosophy : 인식론(epistemology), 과학철학(philosophy of science), 언어철학(linguistic philosophy)   
+  - Sports : 종합격투기(MMA), 주짓수(Jiujitsu)  
   
 ## :atom: Interested research subject
 
