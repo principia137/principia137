@@ -1,58 +1,53 @@
 ### Hi there 👋
- 🌱 I’m learning ...   
-  ~~리눅스(raspberry pi os/ubuntu)/신호 및 시스템/통신공학/네트워크/광학/양자암호통신/양자컴퓨터~~  
-  Physics : Quantum field theory / Cosmology     
-  Biology : Brain science  
-  Philosophy : epistemology, philosophy of science, linguistic philosophy   
-  Mathematics : Group theory  
-  Sports : 종합격투기(MMA), 주짓수(Jiujitsu)
-    
+ > I love physics! I'm always thinking about **'big question & big history'** of our universe.
+ 
+ 🌱 I’m learning ...    
+  Physics : 양자장론(Quantum field theory), 중력 & 우주론(Gravity & Cosmology)     
+  Engineering : 통신(telecommunication & RF system), 신호처리(signal processing), 제어(control theory), Embeded system(c/c++)
+  Mathematics : 군론(Group theory)  
+  Biology : 뇌과학(Brain science)  
+  Philosophy : 인식론(epistemology), 과학철학(philosophy of science), 언어철학(linguistic philosophy)   
+  Sports : 종합격투기(MMA), 주짓수(Jiujitsu)  
+  
 ##### Interested research subject
-Higgs inflation,SUSY
+Inflation(early universe), Higgs inflation, CMB data analysis
+Gauge theory and Non-local physical phenomenon
+Raychaudhuri equation and tidal phenomenon
 
 ##### About me
 - 물리학을 공부합니다.  
 - Self reliancce(자기신뢰)가 매우 강한 사람입니다.  
 
-
 ##### Information...
-   (Instagram - @philosopher_on_the_corner)    
-   (You can contact me at yuyuyu7020@gmail.com)    
+   (Instagram - @yubermensch)    
+   (You can contact me at yuyuyu7020@outlook.com)    
    (중앙대학교 물리학과 학술소모임 DDM 방문 - https://sites.google.com/view/cau-ddm)    
    (개인 블로그 - https://principia137.github.io)
    
 ##### Affilation
-  THEP 고에너지 이론물리 연구실 학부연구생    
+  중앙대 고에너지 이론물리 연구실 학부연구생(2023~2025)    
   
 ##### School...
-  미래산업과학고 졸(2019)   
+  미래산업과학고등학교(발명창작과,기계전공) 졸업(2019)   
   중앙대학교 물리학과 학사 재학중(2019 ~ )  
   
-##### Career  
-  2021년 물리학과 학술소모임(DDM) 부회장    
-  2023년 물리학과 학술소모임(DDM) 회장  
+세부적인 정보는 이력서에 담겨있습니다. 연락주시면 이력서를 보내드리겠습니다.  
+(if you need more detailed informaion(resume), please contact me via yuyuyu7020@outlook.com/yuyuyu7020@gmail.com)
 
-
-#### Technology
+#### Skill
 ##### Available Language...
-  python,   
-  c/c++,   
-  visual basic for application(VBA),    
-
-##### FrameWork...
-  django,   
-  pyqt,   
-  Qiskit : Programming language for Quantum Computer (i've been using IonQ & IBM back-end), 
-  etc.  
+  python, c/c++      
 
 ##### Embedded System...
   ~~Raspberry pi os(based on ARM cortex)~~
   Arduino (based on Atmega 328) 
 
+##### Tool...
+ANSYS HFSS(고주파 회로설계 소프트웨어)  
+Solidworks(3D CAD)  
+Mathematica(수학,물리학 계산,시각화 툴)  
+PySDR(파이썬 SDR 데이터 분석 라이브러리)  
+etc..  
+
 ##### license...
   자동차 정비 기능사(2018년 취득)
-
-##### Tool...
-  matlab/simulink,  
-  Solidworks, 
-  AutoCAD,  
