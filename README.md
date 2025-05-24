@@ -17,7 +17,8 @@ Raychaudhuri equation and tidal phenomenon
 
 ## :basecamp: About me
 - 물리학을 공부합니다.  
-- Self reliancce(자기신뢰)가 매우 강한 사람입니다.  
+- Self reliancce(자기신뢰)가 매우 강한 사람입니다.
+- 메타인지가 뛰어납니다. 시스템을 통합하고 구축하는 것을 좋아하고 잘합니다.
 
 ## :triangular_flag_on_post: Information...
    (Instagram - @yubermensch)    
