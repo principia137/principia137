@@ -35,11 +35,12 @@ Raychaudhuri equation and tidal phenomenon
 
 ## :ninja: Skill
 ### Available Language...
-  python, c/c++      
+  - python
+  - c/c++      
 
 ### Embedded System...
-  ~~Raspberry pi os(based on ARM cortex)~~
-  Arduino (based on Atmega 328) 
+  ~~Raspberry pi os(based on ARM cortex)~~  
+  - Arduino (based on Atmega 328) 
 
 ### Tool...
 - ANSYS HFSS(고주파 회로설계 소프트웨어)  
@@ -49,7 +50,7 @@ Raychaudhuri equation and tidal phenomenon
 etc..  
 
 ### license...
-  자동차 정비 기능사(2018년 취득)
+  - 자동차 정비 기능사(2018년 취득)
 
 ---
 > 세부적인 정보는 이력서에 담겨있습니다. 연락주시면 이력서를 보내드리겠습니다.  
