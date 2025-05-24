@@ -1,6 +1,9 @@
 # Hi there, This is my brief resume 👋
- > I love physics! I'm always thinking about **'big question & big history'** of our universe.
- 
+> I love physics! I'm always thinking about **'big question & big history'** of our universe.
+
+> 세부적인 정보는 이력서에 담겨있습니다. 연락주시면 이력서를 보내드리겠습니다.  
+(if you need more detailed informaion(resume), please contact me via yuyuyu7020@outlook.com/yuyuyu7020@gmail.com)
+
 ## 🌱 I’m learning ...    
   - Physics : 양자장론(Quantum field theory), 중력 & 우주론(Gravity & Cosmology)     
   - Engineering : 통신(telecommunication & RF system), 신호처리(signal processing), 제어(control theory), Embeded system(c/c++)
@@ -52,6 +55,3 @@ etc..
 ### license...
   - 자동차 정비 기능사(2018년 취득)
 
----
-> 세부적인 정보는 이력서에 담겨있습니다. 연락주시면 이력서를 보내드리겠습니다.  
-(if you need more detailed informaion(resume), please contact me via yuyuyu7020@outlook.com/yuyuyu7020@gmail.com)
